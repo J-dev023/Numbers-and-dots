@@ -1,0 +1,20 @@
+<html>
+<body>
+
+<h2> An Unordered HTML List</h2>
+
+<ul>
+<li>6-8 sea scallops</li>
+<li>2 cups vegetable oil</li>
+<li>cup chopped chinese cabbage</li>
+</ul>
+
+<H2> An Ordered HTML List</h2>
+
+<ol>
+<li>1 small carrot, thinly sliced</li>
+<li>1 tb light soy sauce</li>
+<li>A few drops sesame oil</li>
+
+</body>
+</html>
